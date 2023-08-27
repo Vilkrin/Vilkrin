@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vilkrin
 - 👀 I’m interested ...
-- 🌱 I’m currently learning web development - HTML/CSS/Bootstrap/PHP(OOP/MVC/PDO/MYSQL)
+- 🌱 I’m currently learning web development - HTML/CSS/Bootstrap/TailwindCSS/PHP(Laravel/OOP/MVC/PDO/MYSQL)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - twitter.com/vilkrin
 
