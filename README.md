@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🌱 Learning HTML, CSS, Tailwind CSS, PHP, Laravel.
 - 💡 Interested in Web Development.
 - 🎯 Looking to collaborate on **[open source projects, freelance work, etc.]**
-- 🖋️ Occasionally blogging about **[will update this when i start blogging :)]**
+
 
 ---
 
@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 - **Languages**: [HTML, CSS, PHP]
 - **Frameworks & Libraries**: Laravel,  Tailwind CSS.
-- **Tools & Platforms**: VS Code, Herd.
-- **Other Skills**:
+- **Tools & Platforms**: VS Code, Herd. Cursor, Lovable.
+
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 💼 LinkedIn: https://www.linkedin.com/in/abeechey/
 - 🐦 Twitter: https://x.com/vilkrin
 -    Bluesky: https://bsky.app/profile/vilkrin.bsky.social
-- 📧 Email: [Your Email Address]
+
 
 ---
 
