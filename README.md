@@ -1,33 +1,16 @@
 # 👋 Hi there, I'm Vilkrin!
 
-Welcome to my GitHub profile! I'm a passionate developer, always eager to learn new technologies and collaborate on exciting projects. Here's a bit more about me:
+I'm a Full Stack Developer with a focus on building clean, scalable, and maintainable applications.  
+My current work includes:
 
----
+### 🔹 LaraCMS  
+A flexible Laravel-based content management system designed for simplicity, extensibility, and modern development workflows.
 
-## 🚀 About Me
+### 🔹 LumenGallery  
+A lightweight image gallery solution built with performance and ease of use in mind.
 
-- 🔭 Currently working on LaraCMS & LumenGallery
-- 🌱 Learning HTML, CSS, Tailwind CSS, PHP, Laravel.
-- 💡 Interested in Web Development.
-- 🎯 Looking to collaborate on **[open source projects, freelance work, etc.]**
+I’m passionate about creating efficient backend architecture, intuitive frontend interfaces, and tools that help developers build faster and smarter.
 
-
----
-
-## 💻 Tech Stack
-
-- **Languages**: [HTML, CSS, PHP]
-- **Frameworks & Libraries**: Laravel,  Tailwind CSS.
-- **Tools & Platforms**: VS Code, Herd. Cursor, Lovable.
-
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vilkrin&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vilkrin&layout=compact&theme=radical)
 
 ---
 
